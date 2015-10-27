@@ -182,4 +182,4 @@ would take more effort than I'm willing to spend at the moment.
 Changelog
 =========
 
-v1.0 - Initial Release
+v1.0 - October 27, 2015 - Initial Release
