@@ -1,0 +1,13 @@
+GIMP Palette
+Name: Borderlands: The Pre Sequel World Map
+Columns: 0
+#
+ 63  71 114	Map Highlight BG
+  0   0   0	Black (font outlines)
+ 22  20  60	Main Background
+224 224 224	Map Highlight Border
+255  45  45	Two-Way Connections
+251 209  62	One-Way Connections
+254 237   1	Map Titles / URLs / Dividing Line Border
+ 17  16  39	Dividing Line Background
+236 237 253	White Text
