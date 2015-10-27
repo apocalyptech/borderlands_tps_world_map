@@ -178,6 +178,9 @@ map when TPS is about 2/3rds the size.  On the other hand, I always thought
 the B2 map was a bit cramped, so clearly I prefer things a little more spread
 out.  At any rate, I suspect that shrinking it "properly" at the source level
 would take more effort than I'm willing to spend at the moment.
+* Now that I'm effectively done with this for the time being, I can't help
+but wonder if this should've been implemented in Inkscape instead of Gimp.  I
+bet a lot of the shuffling around would have been easier.
 
 Changelog
 =========
