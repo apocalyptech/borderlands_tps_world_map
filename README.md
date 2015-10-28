@@ -172,6 +172,8 @@ TODO
 on the map as well.
 * It also might be nice to highlight the Fast Travel locations a little
 more obviously.
+* I'd like to have some better-quality reconstructed icons, rather than
+the somewhat-fuzzy versions that I'd taken from screen captures.
 * I feel as though the map's "native" size could stand to be smaller.  It's
 a bit stupid that the map resolution is bigger than the Borderlands 2 world
 map when TPS is about 2/3rds the size.  On the other hand, I always thought
